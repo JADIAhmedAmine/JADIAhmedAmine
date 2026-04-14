@@ -8,8 +8,8 @@
 
 ## AI Engineering | Data & MLOps | Applied Machine Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ton-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadi-ahmed-amine)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JADIAhmedAmine)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonemail@example.com)
 
 </div>
@@ -126,29 +126,28 @@ mindmap
 
 ---
 
-## 🚀 Mes Projets
+##  Mes Projets
 
 > N'hésite pas à explorer mes projets et à me contacter pour échanger autour de l'IA, du NLP, du RAG ou du MLOps.
 
-### 📌 Projets principaux
+###  Projets principaux
 
 | Projet | Description |
 |--------|-------------|
-| 📄 **PDF Question Answering with Qwen** | Pipeline complet de question-réponse sur documents PDF avec extraction, chunking, embeddings, reranking et génération de réponses. |
-| 💼 **Finance Document RAG API** | API FastAPI pour l'analyse intelligente de documents financiers avec RAG multimodal, extraction d'entités, tableaux et inférences structurées. |
-| 🖼️ **Multimodal Document Understanding** | Projet de structuration automatique de PDF non structurés contenant du texte, des tableaux, des images et des graphiques. |
-| 🔍 **Anomaly Detection for Datacenter Monitoring** | Détection intelligente d'anomalies à partir de données de supervision via Z-score, Isolation Forest et Autoencodeur. |
-| 🌪️ **Turbulence Forecasting Hybrid Models** | Projet de prévision basé sur EWMA, Ridge, ARIMA, DMD et modèle hybride Ridge-DMD. |
+| **PDF Question Answering with Qwen** | Pipeline complet de question-réponse sur documents PDF avec extraction, chunking, embeddings, reranking et génération de réponses. |
+| **Finance Document RAG API** | API FastAPI pour l'analyse intelligente de documents financiers avec RAG multimodal, extraction d'entités, tableaux et inférences structurées. |
+|  **Multimodal Document Understanding** | Projet de structuration automatique de PDF non structurés contenant du texte, des tableaux, des images et des graphiques. |
+
 
 ---
 
 ## 💡 Domaines d'intérêt
 
 ```
-🧠 Intelligence Artificielle appliquée     🔤 NLP & LLMs
-🔗 RAG Systems                              📄 Document AI
-🖼️ Multimodal Learning                     📉 Anomaly Detection
-⚙️ MLOps & Deployment                      🌍 AI for real-world applications
+ Intelligence Artificielle appliquée     NLP & LLMs
+ RAG Systems                             Document AI
+ Multimodal Learning                     Anomaly Detection
+ MLOps & Deployment                      AI for real-world applications
 ```
 
 ---
@@ -157,8 +156,8 @@ mindmap
 
 <div align="center">
 
-![Trophées](https://github-profile-trophy.vercel.app/?username=ton-username&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15)
+![Trophées](https://github-profile-trophy.vercel.app/?username=JADIAhmedAmine&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15)
 
-![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=ton-username&theme=react-dark&hide_border=true)
+![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=JADIAhmedAmine&theme=react-dark&hide_border=true)
 
 </div>
