@@ -152,12 +152,3 @@ mindmap
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Trophées](https://github-profile-trophy.vercel.app/?username=JADIAhmedAmine&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15)
-
-![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=JADIAhmedAmine&theme=react-dark&hide_border=true)
-
-</div>
